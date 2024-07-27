@@ -7,6 +7,7 @@
 - [Methodology](#methodology)
 - [Results](#results)
 - [Contributing](#contributing)
+- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -52,6 +53,9 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [scikit-learn](https://scikit-learn.org/stable/)
